@@ -1,0 +1,11 @@
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\bin\Debug\Supermercado.xml
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.vbprojAssemblyReference.cache
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.Form1.resources
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.Resources.resources
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.vbproj.GenerateResource.cache
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.vbproj.CoreCompileInputs.cache
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.xml
+C:\Users\Matheus Costa\Desktop\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
